@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100;1,500&display=swap");
+
+body {
+  font-family: "Dancing Script", cursive;
+  font-size: 14px;
+}
+
+.h1_c {
+  font-size: 40px;
+  font-family: "Dancing Script", cursive;
+  padding: 10px 20px 0px;
+}
+
+.h2_c {
+  color: rgb(89, 109, 59);
+  padding: 10px 20px 0px;
+}
+
+.mainblock {
+  padding: 20px 0px 0px 20px;
+  margin: 0px 150px 0px;
+  background-color: rgba(235, 205, 157, 0.8);
+}
+
+.flexbox {
+  display: flex;
+  justify-content: space-around;
+}
+
+.block1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  background-color: rgba(237, 223, 201, 0.4);
+  border: rgba(17, 18, 68, 0.8) 1px solid;
+
+  width: 180px;
+  height: 274px;
+  margin: 0px 0px 20px 20px;
+  padding: 0px 20px;
+}
+
+.block2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  background-color: rgba(237, 223, 201, 0.4);
+  border: rgba(17, 18, 68, 0.8) 1px solid;
+  width: 180px;
+  height: 274px;
+  margin: 0px 0px 20px 20px;
+  padding: 0px 20px;
+}
+
+.footer1 {
+  padding: 0px 0px 20px 40px;
+}
+.ol_class{
+  display: flex;
+  align-items: center;
+  
+}
+
